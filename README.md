@@ -5,6 +5,7 @@
 ### 인공지능 개요
 
 ## [2장 링크](https://github.com/i3629i/Artifical-Intellgence-Class/blob/master/AI%202%EC%9E%A5.md)
+### 지능적 에이전트
 
 ## [3장 링크](https://github.com/i3629i/Artifical-Intellgence-Class/blob/master/AI%203%EC%9E%A5.md)
 ### 기본 파이썬 정리
