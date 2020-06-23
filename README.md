@@ -15,3 +15,6 @@
 
 ## [5장 링크](https://github.com/i3629i/Artifical-Intellgence-Class/blob/master/AI%205%EC%9E%A5.md)
 ### 휴리스틱, 최고 우선 탐색, 탐욕적 최고 우선 탐색, A* 탐색 알고리즘
+
+## [8장링크](https://github.com/i3629i/Artifical-Intellgence-Class/blob/master/AI%208%EC%9E%A5.md)
+### 제약충족문제, 아크 일관성
